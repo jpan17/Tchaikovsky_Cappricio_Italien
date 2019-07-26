@@ -9,7 +9,7 @@
 - The full orchestral score
 - E. Langer's 4-hands arrangement
 
-### We cut the original piece from approximately fifteen minutes to less than eight. Here are the cuts we are keeping (use previously linked video as a guide):
+### We cut the original piece from approximately fifteen minutes to approximately seven. Here are the cuts we are keeping (use previously linked video as a guide):
 - [ ] 0:08 - 0.23 > Opening
 - [ ] 0:43 - 1:21 > Main theme
 - [ ] 2:15 - 2:37 > Oboe (hot boys hehe)
