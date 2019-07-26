@@ -12,7 +12,7 @@
 ### We cut the original piece from approximately fifteen minutes to less than eight. Here are the cuts we are keeping (use previously linked video as a guide):
 - [ ] 0:08 - 0.23 > Opening
 - [ ] 0:43 - 1:21 > Main theme
-- [ ] 2:15 - 2:37 > Oboe :simple_smile: (hot boys hehe)
+- [ ] 2:15 - 2:37 > Oboe (hot boys hehe)
 - [ ] 2:50 - 3:18 > Buildup
 - [ ] 4:12 - 4:16 > Chords (shhh) 
 - [ ] 4:56 - 6:53 > Happy section :smile:
