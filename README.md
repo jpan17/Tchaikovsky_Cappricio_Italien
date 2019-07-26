@@ -1,6 +1,6 @@
-# Tchaikovsky_Cappricio_Italien
+# Tchaikovsky: Capriccio Italien Op. 45
 
-### Requiremnents
+### Requirements
 - Sibelius 8.0
 - Perfection
 
