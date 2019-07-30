@@ -1,8 +1,8 @@
 # Tchaikovsky: Capriccio Italien Op. 45
 
 ### Requirements
-- Sibelius 8.0
-- Perfection
+- Sibelius 8.0 (Both Charlie and Jess have this)
+- Perfection (Just Jess)
 
 ### We are using the following resources as references for this arrangement:
 - [The Halle Recording] (https://www.youtube.com/watch?v=QIfHGjdF7qI)
