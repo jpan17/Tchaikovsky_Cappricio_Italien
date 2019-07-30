@@ -1,8 +1,8 @@
 # Tchaikovsky: Capriccio Italien Op. 45
 
 ### Requirements
-- Sibelius 8.0
-- Perfection
+- Sibelius 8.0 (Both Charlie and Jess have this)
+- Perfection (Just Jess)
 
 ### We are using the following resources as references for this arrangement:
 - [The Halle Recording] (https://www.youtube.com/watch?v=QIfHGjdF7qI)
@@ -10,8 +10,8 @@
 - E. Langer's 4-hands arrangement
 
 ### We cut the original piece from approximately fifteen minutes to approximately seven. Here are the cuts we are keeping (use previously linked video as a guide):
-- [ ] 0:08 - 0:23 > Opening
-- [ ] 0:43 - 1:21 > Main theme
+- [x] 0:08 - 0:23 > Opening
+- [x] 0:43 - 1:21 > Main theme
 - [ ] 2:15 - 2:37 > Oboe (hot boys hehe)
 - [ ] 2:50 - 3:18 > Buildup
 - [ ] 4:12 - 4:16 > Chords (shhh) 
