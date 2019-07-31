@@ -2,7 +2,7 @@
 
 ### Requirements
 - Sibelius 8.0 (Both Charlie and Jess have this)
-- Perfection (Just Jess)
+- Perfection (Just Charlie)
 
 ### We are using the following resources as references for this arrangement:
 - [The Halle Recording] (https://www.youtube.com/watch?v=QIfHGjdF7qI)
@@ -12,7 +12,7 @@
 ### We cut the original piece from approximately fifteen minutes to approximately seven. Here are the cuts we are keeping (use previously linked video as a guide):
 - [x] 0:08 - 0:23 > Opening
 - [x] 0:43 - 1:21 > Main theme
-- [ ] 2:15 - 2:37 > Oboe (hot boys hehe)
+- [x] 2:15 - 2:37 > Oboe (hot boys hehe)
 - [ ] 2:50 - 3:18 > Buildup
 - [ ] 4:12 - 4:16 > Chords (shhh) 
 - [ ] 4:56 - 6:53 > Happy section :smile:
