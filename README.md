@@ -15,7 +15,7 @@
 - [x] 2:15 - 2:37 > Oboe (hot boys hehe)
 - [x] 2:50 - 3:18 > Buildup
 - [x] 4:12 - 4:16 > Chords (shhh) 
-- [ ] 4:56 - 6:53 > Happy section :smile:
+- [x] 4:56 - 6:53 > Happy section :smile:
 - [ ] 6:53 - 7:23 > Fast section
 - [ ] 7:23 - 7:39 > Jess likes this part
 - [ ] 8:28 - 9:01 > Happy section v2
