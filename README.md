@@ -18,7 +18,7 @@
 - [x] 4:56 - 6:53 > Happy section :smile:
 - [x] 6:53 - 7:23 > Fast section
 - [x] 7:23 - 7:39 > Jess likes this part
-- [ ] 8:28 - 9:01 > Happy section v2
-- [ ] 9:14 - 9:41 > Main theme recap
-- [ ] 12:41 - 13:26 > Happy section but majestic af
-- [ ] 14:00 - 14:35 > Ending
+- [x] 8:28 - 9:01 > Happy section v2
+- [x] 9:14 - 9:41 > Main theme recap
+- [x] 12:41 - 13:26 > Happy section but majestic af
+- [x] 14:00 - 14:35 > Ending
