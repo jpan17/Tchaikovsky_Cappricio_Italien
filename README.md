@@ -16,7 +16,7 @@
 - [x] 2:50 - 3:18 > Buildup
 - [x] 4:12 - 4:16 > Chords (shhh) 
 - [x] 4:56 - 6:53 > Happy section :smile:
-- [ ] 6:53 - 7:23 > Fast section
+- [x] 6:53 - 7:23 > Fast section
 - [ ] 7:23 - 7:39 > Jess likes this part
 - [ ] 8:28 - 9:01 > Happy section v2
 - [ ] 9:14 - 9:41 > Main theme recap
